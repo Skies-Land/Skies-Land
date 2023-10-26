@@ -1,8 +1,9 @@
 # 👨‍💻 Skies-Land
 
-**`Front-End Developer`**
+**`Digital craftsman (Fron-End Developer/Music Producer)`**
 
-I'm Jonathan Araldi (Skies-Land) from France, and I'm interested on design and development. I'm currently studying at [OpenClassrooms](https://openclassrooms.com/fr/) for a "web integrator" diploma.
+I'm Jonathan Araldi (Skies-Land) from France, and I'm interested on design and development. I'm currently studying at [OpenClassrooms](https://openclassrooms.com/fr/) for a "web integrator" diploma from September 2023 to June 2024. <br />
+
 
 ---
 
@@ -21,5 +22,13 @@ I'm Jonathan Araldi (Skies-Land) from France, and I'm interested on design and d
 <br /> <br />
  
 #
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skies-land&layout=compact" />
 
+### 📊 Stats
+
+![Skies-Land's GitHub stats](https://github-readme-stats.vercel.app/api?username=skies-land&show_icons=true&theme=gruvbox)
+
+#
+
+<details>
+ <summary><h3>🎯 My career goal </h3></summary>
+  ...
