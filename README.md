@@ -28,7 +28,6 @@ I've always been fascinated by IT professions. I aspire to find a career in web 
 ### 📊 Stats
 
 ![Skies-Land's GitHub stats 1](https://github-readme-stats.vercel.app/api?username=skies-land&show_icons=true&theme=gruvbox)
-![Skies-Land's GitHub stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=skies-land&layout=compact)
 
 #
 
