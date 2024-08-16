@@ -2,7 +2,7 @@
 
 **`Artisan du numérique (Développeur Front-End)`**
 
-<h3 align="left">En tant que développeur front-end junior passionné par les nouvelles technologies, je suis prêt à rejoindre une équipe enthousiaste et à innover au sein d'une entreprise dynamique. Mon objectif est d'apporter mes compétences et ma créativité pour atteindre nos objectifs communs, tout en réalisant mes rêves et en enrichissant continuellement mes connaissances.</h3>
+<h3 align="left">En tant que développeur front-end junior passionné par les nouvelles technologies, je suis prêt à rejoindre une équipe enthousiaste et à innover au sein d'une entreprise dynamique. <br><br> Mon objectif est d'apporter mes compétences et ma créativité pour atteindre nos objectifs communs, tout en réalisant mes rêves et en enrichissant continuellement mes connaissances.</h3>
 
 
 ---
@@ -12,11 +12,15 @@
 
 <br>
 
-- 👉 J'ai recemment suivi un parcours d'**Intégrateur Web** chez **[OpenClassrooms](https://openclassrooms.com/fr/)**. 
+
+- 👉 J'ai récemment suivi un parcours **d'Intégrateur Web** chez **[OpenClassrooms](https://openclassrooms.com/fr/)**. 
 
 - 👉 J'apprends actuellement : **Next.js, TypeScript & Tailwind CSS**
 
 - 👉 Consulte mes projets : **[Portfolio](https://portfolio-jonathan-araldi.netlify.app/)**
+
+
+<br><br>
 
 
 <h2 style="font-size: 2.5em; font-weight: bold;">🛠️ Mes compétences</h2>
