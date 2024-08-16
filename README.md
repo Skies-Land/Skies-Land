@@ -4,15 +4,24 @@
 
 <h3 align="left">As a junior front-end developer with a passion for new technologies, I'm ready to join an enthusiastic team and innovate within a dynamic company. My aim is to contribute my skills and creativity to achieve our common goals, while realizing my dreams and continually enriching my knowledge.</h3>
 
+
+---
+
+
+
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=EIUn3hmiPunoE0cjr0uMZoKR89ir4UN8cJ3hlZrm_x8" />
+
+<br>
+
 - 🌱 I’m currently learning **Next.js, TypeScript & Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at my **[portfolio](https://portfolio-jonathan-araldi.netlify.app/)**
 
 - 💬 I've recently completed a **Web Integrator** training course at **[OpenClassrooms](https://openclassrooms.com/fr/)** I've always been fascinated by IT professions. I aspire to find a career in web development that would match my dreams, acting with inventiveness, imagination and conviction.
 
----
-
 <h2 style="font-size: 2.5em; font-weight: bold;">🛠️ My favorite skills</h2>
+
+<img align="left" alt="coding" width="300" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" />
 
 <h3 style="font-size: 1.5em;">Languages, Frameworks & Libraries</h3>
 <p>
@@ -39,46 +48,33 @@
   <img align="left" alt="Figma" width="30px" heigh="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" />
   <img align="left" alt="Notion" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" />
 </p>
-<br><br>
+<br> <br><br> <br>
 
 ---
 
-## 🚀 Short, medium and long-term goals
+<h2 align="left" style="font-size: 2.5em; font-weight: bold;">🚀 Short, medium and long-term goals</h2>
 
-<details>
-  <summary style="font-size: 1.2em;">▶️ In the short term...</summary>
+<h4>▶️ In the short term...</h4>
   <ul>
-    <br>
     <li>I aim to gain practical experience by working on real projects, in order to strengthen my technical skills and familiarize myself with good development practices.</li>
     <br>
   </ul>
-</details>
 
-<details>
-  <summary style="font-size: 1.2em;">▶️ In the medium term...</summary>
+<h4>▶️ In the medium term...</h4>
   <ul>
-    <br>
     <li>I'd like to specialize further in front-end development, exploring emerging technologies such as advanced JavaScript frameworks.</li>
     <br>
   </ul>
-</details>
 
-<details>
-  <summary style="font-size: 1.2em;">▶️ In the long term...</summary>
+<h4>▶️ In the long term...</h4>
   <ul>
-    <br>
     <li>I aspire to broaden my skills by moving into back-end development, while actively contributing to innovative projects as part of a dynamic team.</li>
     <br>
   </ul>
-</details>
-
 
 ---
 
 ### 📊 Stats
 
 ![Skies-Land's GitHub stats 1](https://github-readme-stats.vercel.app/api?username=skies-land&show_icons=true&theme=gruvbox)
-
-
----
 
