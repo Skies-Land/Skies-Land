@@ -8,7 +8,7 @@
 ---
 
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=EIUn3hmiPunoE0cjr0uMZoKR89ir4UN8cJ3hlZrm_x8" />
+<img align="right" alt="coding" width="250" src="https://media.licdn.com/dms/image/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=EIUn3hmiPunoE0cjr0uMZoKR89ir4UN8cJ3hlZrm_x8" />
 
 <br>
 
@@ -25,7 +25,6 @@
 
 <h2 style="font-size: 2.5em; font-weight: bold;">🛠️ Mes compétences</h2>
 
-<img align="left" alt="coding" width="300" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" />
 
 <h3 style="font-size: 1.5em;">Langages, Frameworks et Bibliothèque</h3>
 <p>
