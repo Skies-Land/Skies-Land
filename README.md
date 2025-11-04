@@ -13,9 +13,7 @@
 <br>
 
 
-- 👉 J'ai récemment suivi un parcours **d'Intégrateur Web** chez **[OpenClassrooms](https://openclassrooms.com/fr/)**. 
-
-- 👉 J'apprends actuellement : **Next.js, TypeScript & Tailwind CSS**
+- 👉 Après avoir suivi un parcours **d'Intégrateur Web** chez **[OpenClassrooms](https://openclassrooms.com/fr/)**, je poursuis mon apprentissage entant que **Concepteur Développeur d'application web** chez **[STUDI](https://www.studi.com/fr)**
 
 - 👉 Consulte mes projets : **[Portfolio](https://portfolio-jonathan-araldi.netlify.app/)**
 
