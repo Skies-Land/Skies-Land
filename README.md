@@ -1,49 +1,40 @@
 <h1 align="center">👨‍💻 Jonathan Araldi (Skies-Land)</h1>
 
-**`Artisan du numérique (Développeur Front-End)`**
+<h3 align="left">Mon objectif : contribuer à des projets innovants tout en développant constamment mes compétences.</h3>
 
-<h3 align="left">En tant que développeur front-end junior passionné par les nouvelles technologies, je suis prêt à rejoindre une équipe enthousiaste et à innover au sein d'une entreprise dynamique. <br><br> Mon objectif est d'apporter mes compétences et ma créativité pour atteindre nos objectifs communs, tout en réalisant mes rêves et en enrichissant continuellement mes connaissances.</h3>
+#### Conception et pilotage de projet
+* Pour structurer ma conception, j'analyse et rédiger les spécifications techniques.
+* Pour une bonne vision du projet, je combine des outils de gestion de projet (Kanban, JIRA) et le prototypage avec l'IA.
 
+#### Développement web
+* Dans mes projets, je combiné React, TypeScript, Tailwind (ou SASS) avec Firebase pour la gestion d'une base de données et d'authentification utilisateur.
+* Je soigne la clarté de mes documentations technique et le niveau de détail, avec un code propre séparant la logique fonctionnelle et vue graphique pour une bonne maintenabilité et compréhension, favorisant ainsi une collaboration futur.
 
+#### L’esprit d’évolution continu
+* Toujours en quête pour apprendre de nouvelle compétences et technique avancé.
 ---
 
-
-<img align="right" alt="coding" width="250" src="https://media.licdn.com/dms/image/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=EIUn3hmiPunoE0cjr0uMZoKR89ir4UN8cJ3hlZrm_x8" />
-
-<br>
-
-
 - 👉 Après avoir suivi un parcours **d'Intégrateur Web** chez **[OpenClassrooms](https://openclassrooms.com/fr/)**, je poursuis mon apprentissage entant que **Concepteur Développeur d'application web** chez **[STUDI](https://www.studi.com/fr)**
-
 - 👉 Consulte mes projets : **[Portfolio](https://portfolio-jonathan-araldi.netlify.app/)**
-
-
-<br><br>
-
 
 <h2 style="font-size: 2.5em; font-weight: bold;">🛠️ Mes compétences</h2>
 
 
 <h3 style="font-size: 1.5em;">Langages, Frameworks et Bibliothèque</h3>
 <p>
-  <img align="left" alt="HTML" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-  <img align="left" alt="CSS" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-  <img align="left" alt="JavaScript" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-  <img align="left" alt="TypeScript" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
+  <img align="left" alt="Vite.js" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" />
   <img align="left" alt="React" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+  <img align="left" alt="TypeScript" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
   <img align="left" alt="Tailwind CSS" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
   <img align="left" alt="SASS" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
-  <img align="left" alt="Next.js" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
-  <img align="left" alt="Vite.js" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" />
 </p>
 <br><br>
 <h3 style="font-size: 1.5em;">Environnements, Outils et Plates-formes</h3>
 <p>
   <img align="left" alt="Windows" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" />
-  <img align="left" alt="macOS" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/apple-14.svg" />
+  <img align="left" alt="macOS" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/apple-13.svg" />
   <img align="left" alt="Visual Studio Code" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
   <img align="left" alt="CodePen" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" />
-  <img align="left" alt="Git" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
   <img align="left" alt="GitHub" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
   <img align="left" alt="Firebase" width="30px" heigh="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" />
   <img align="left" alt="Figma" width="30px" heigh="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" />
@@ -75,7 +66,4 @@
 
 ---
 
-### 📊 Stats
-
-![Skies-Land's GitHub stats 1](https://github-readme-stats.vercel.app/api?username=skies-land&show_icons=true&theme=gruvbox)
 
