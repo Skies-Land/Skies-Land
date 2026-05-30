@@ -1,69 +1,83 @@
-<h1 align="center">👨‍💻 Jonathan Araldi (Skies-Land)</h1>
+<h1 align="center">👨‍💻 Salut, je suis Jonathan Araldi (Skies-Land)</h1>
 
-<h3 align="left">Mon objectif : contribuer à des projets innovants tout en développant constamment mes compétences.</h3>
+<div align="center">
+  <img src="./img/banner.png" alt="Profile Banner" width="100%" />
+</div>
 
-#### Conception et pilotage de projet
-* Pour structurer ma conception, j'analyse et rédiger les spécifications techniques.
-* Pour une bonne vision du projet, je combine des outils de gestion de projet (Kanban, JIRA) et le prototypage avec l'IA.
+<h3 align="center"><em>"Concevoir des interfaces, dynamiques et performantes."</em></h3>
 
-#### Développement web
-* Dans mes projets, je combiné React, TypeScript, Tailwind (ou SASS) avec Firebase pour la gestion d'une base de données et d'authentification utilisateur.
-* Je soigne la clarté de mes documentations technique et le niveau de détail, avec un code propre séparant la logique fonctionnelle et vue graphique pour une bonne maintenabilité et compréhension, favorisant ainsi une collaboration futur.
-
-#### L’esprit d’évolution continu
-* Toujours en quête pour apprendre de nouvelle compétences et technique avancé.
----
-
-- 👉 Après avoir suivi un parcours **d'Intégrateur Web** chez **[OpenClassrooms](https://openclassrooms.com/fr/)**, je poursuis mon apprentissage entant que **Concepteur Développeur d'application web** chez **[STUDI](https://www.studi.com/fr)**
-- 👉 Consulte mes projets : **[Portfolio](https://portfolio-jonathan-araldi.netlify.app/)**
-
-<h2 style="font-size: 2.5em; font-weight: bold;">🛠️ Mes compétences</h2>
-
-
-<h3 style="font-size: 1.5em;">Langages, Frameworks et Bibliothèque</h3>
-<p>
-  <img align="left" alt="Vite.js" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" />
-  <img align="left" alt="React" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-  <img align="left" alt="TypeScript" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
-  <img align="left" alt="Tailwind CSS" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
-  <img align="left" alt="SASS" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
+<p align="center">
+  Ayant récemment terminé ma formation de <b>Concepteur Développeur d'Applications Web</b> chez <a href="https://www.studi.com/fr" target="_blank"><b>STUDI</b></a> <i>(faisant suite à un parcours <b>d'Intégrateur Web</b> chez OpenClassrooms)</i>, j'ai consolidé les compétences acquises lors de ces deux formations pour élaborer un portfolio centralisant mes projets.
 </p>
-<br><br>
-<h3 style="font-size: 1.5em;">Environnements, Outils et Plates-formes</h3>
-<p>
-  <img align="left" alt="Windows" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" />
-  <img align="left" alt="macOS" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/apple-13.svg" />
-  <img align="left" alt="Visual Studio Code" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-  <img align="left" alt="CodePen" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" />
-  <img align="left" alt="GitHub" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
-  <img align="left" alt="Firebase" width="30px" heigh="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" />
-  <img align="left" alt="Figma" width="30px" heigh="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" />
-  <img align="left" alt="Notion" width="35px" heigh="35px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" />
+
+<p align="center">
+  <a href="https://portfolio-jonathan-araldi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Mon_Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-<br> <br><br> <br>
 
 ---
 
-<h2 align="left" style="font-size: 2.5em; font-weight: bold;">🚀 Mes objectifs à court, moyen et long terme</h2>
+## 🚀 À propos de moi
 
-<h4>▶️ À court terme...</h4>
-  <ul>
-    <li>Mon objectif est d'acquérir une expérience pratique en travaillant sur des projets réels, afin de renforcer mes compétences techniques et de me familiariser avec les bonnes pratiques de développement.</li>
-    <br>
-  </ul>
-
-<h4>▶️ À moyen terme...</h4>
-  <ul>
-    <li>J'aimerais me spécialiser davantage dans le développement front-end, en explorant les technologies émergentes telles que les frameworks JavaScript avancés.</li>
-    <br>
-  </ul>
-
-<h4>▶️ À long terme...</h4>
-  <ul>
-    <li>J'aspire à élargir mes compétences en m'orientant vers le développement back-end, tout en contribuant activement à des projets innovants au sein d'une équipe dynamique.</li>
-    <br>
-  </ul>
+- 🔭 Je travaille actuellement sur la mise à jour d'une application **[Next.js, React, Firebase]**.
+- 🌱 J'approfondis mes connaissance et mes compétences techniques sur **React**, **TypeScript** et prochainement **Python**.
+- 💡 De l'idée au déploiement, je structure mes projets via une phase de **conception** complète *(brainstorming, maquettes, choix techniques, user stories, schémas)*. En phase de développement actif, j'intègre le **pair programming avec l'IA** et m'appuie sur des architectures modernes *(Serverless via **Firebase**, bases de données avec **MongoDB**)*.
+- 🎯 **Mon objectif** : avoir le plaisir de contribuer à des projets innovants, stimulants et formateurs tout en développant constamment mes compétences techniques.
 
 ---
 
+## 🛠️ Ma stack technique
 
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://img.shields.io/badge/Astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+</p>
+
+### Backend & BaaS
+<p align="left">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+### Outils & Environnement
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <a href="https://github.com/Skies-Land">
+    <img src="https://github-readme-stats.vercel.app/api?username=Skies-Land&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Skies-Land">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skies-Land&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  </a>
+</p>
+
+---
+
+## 🗺️ Ma roadmap développeur
+
+Être développeur, c'est un apprentissage continu. Voici mon plan de route pour les mois et années à venir :
+
+- [x] **Fondations solides** : Validation de mes compétences en Intégration et Conception Web.
+- [x] **Mise en pratique** : Élaboration de mon **[Portfolio](https://portfolio-jonathan-araldi.netlify.app/)** et centralisation de mes projets.
+- [ ] 🏃‍♂️ **Court terme** : Rejoindre une équipe stimulante pour contribuer à des projets concrets et parfaire mes bonnes pratiques de développement.
+- [ ] 🧗‍♂️ **Moyen terme** : Atteindre un niveau d'expertise poussé sur le Front-end, notamment sur les architectures complexes (React / TypeScript).
+- [ ] 🚀 **Long terme** : Évoluer vers une maîtrise Full-Stack complète, me permettant de concevoir et de porter des applications web de A à Z.
