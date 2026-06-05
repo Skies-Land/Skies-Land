@@ -20,8 +20,8 @@
 
 ## 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur la mise à jour d'une application **[Next.js, React, Firebase]**.
-- 🌱 J'approfondis mes connaissance et mes compétences techniques sur **React**, **TypeScript** et prochainement **Python**.
+- 🔭 Je travaille actuellement sur le développement d'une application de facturation.
+- 🌱 J'approfondis mes connaissances et mes compétences techniques sur **React**, **TypeScript** et prochainement **Python**.
 - 💡 De l'idée au déploiement, je structure mes projets via une phase de **conception** complète *(brainstorming, maquettes, choix techniques, user stories, schémas)*. En phase de développement actif, j'intègre le **pair programming avec l'IA** et m'appuie sur des architectures modernes *(Serverless via **Firebase**, bases de données avec **MongoDB**)*.
 - 🎯 **Mon objectif** : avoir le plaisir de contribuer à des projets innovants, stimulants et formateurs tout en développant constamment mes compétences techniques.
 
